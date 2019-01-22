@@ -48,3 +48,4 @@ doc/qxt.tags
 bld.inf
 *.Release
 *.Debug
+.qmake.stash
